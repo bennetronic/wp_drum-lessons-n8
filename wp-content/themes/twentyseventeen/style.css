@@ -1621,17 +1621,11 @@ body.has-header-video .site-description {
 	vertical-align: middle;
 	width: auto;
 }
-/* Changed logo size */
-/*@media screen and (min-width: 48em) {
-	.custom-logo-link img {
-		max-width: 700px;
-	}
-}*/
 
 .custom-logo-link img {
 	display: inline-block;
-	max-height: 200px;
-	width: 700px;
+	max-height: 80px;
+	width: auto;
 }
 
 body.home.title-tagline-hidden.has-header-image .custom-logo-link img,
